@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @LarisaAlekseeva
+- 👀 I’m a quality assurance engineer
